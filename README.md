@@ -1,16 +1,17 @@
-### Hi there 👋
+<p>
+Problem Solver | Backend Engineer | Front-end Engineer | Full Stack Engineer
+</p>
 
-<!--
-**creig-with-an-E/creig-with-an-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>Self taught backend ninja who appreciates the occassional frontend ticket</li>
+  <li>I say no to Friday deploys!</li>
+  <li>Just a simple dude</li>
+  </ul>
+<h1></h1>
+<p>
+ <a href="https://skillicons.dev">
+   <img alt="images of skills I have. aws,dynamod,flask,py,nodejs,php,ansible,react,vue" src="https://skillicons.dev/icons?i=aws,dynamodb,flask,py,nodejs,php,ansible,react,vue"/>
+ </a>
+</p>
