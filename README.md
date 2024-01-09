@@ -11,7 +11,5 @@ Problem Solver | Backend Engineer | Front-end Engineer | Full Stack Engineer
   </ul>
 <h1></h1>
 <p>
- <a href="https://skillicons.dev">
    <img alt="images of skills I have. aws,dynamod,flask,py,nodejs,php,ansible,react,vue" src="https://skillicons.dev/icons?i=aws,dynamodb,flask,py,nodejs,php,ansible,react,vue"/>
- </a>
 </p>
